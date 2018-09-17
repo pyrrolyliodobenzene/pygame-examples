@@ -1,2 +1,5 @@
 # pygame-examples
-Brand new examples for the pygame library.
+
+A collection of new pygame examples, written entirely in Python 3.
+
+The code is in the public domain.
